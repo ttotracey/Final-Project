@@ -1,5 +1,5 @@
 # Busy Kernal's Final-Project
-This project looks at three different data sets to determine which neighborhood in Pittsburgh is the best for playing Pokemon Go. We look at neighborhood safety, park size, and school enrollment in each neighborhood to find this. 
+This project looks at three different data sets to determine which neighborhood in Pittsburgh is the best for playing Pokemon Go. We look at neighborhood safety, the amount of playground equipment to determine largest parks, and school enrollment in each neighborhood to find this. 
 
 
 Group members : Tracey(tto4@pitt.edu), Sophia(sgk30@pitt.edu), and Grace(gnh8@pitt.edu)
