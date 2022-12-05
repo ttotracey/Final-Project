@@ -9,4 +9,4 @@ Group members : Tracey(tto4@pitt.edu), Sophia(sgk30@pitt.edu), and Grace(gnh8@pi
 
 [School Enrollment Dataset](https://data.wprdc.org/dataset/pittsburgh-public-schools-enrollment)
 
-[Public Parks Dataset](https://data.wprdc.org/dataset/parks1)
+[Playground Equipment]()
